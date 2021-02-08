@@ -13,3 +13,9 @@
 
 #### google开源源码阅读
 - https://cs.opensource.google/
+
+### turtori
+
+#### Qt 快速入门系列教程
+
+- https://wizardforcel.gitbooks.io/qt-beginning/content/
