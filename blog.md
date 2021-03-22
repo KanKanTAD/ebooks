@@ -23,3 +23,9 @@
 #### 《Nginx Cookbook》中文
 - https://chengkai.wang/2020/03/16/nginx-cook-book1/
 - https://github.com/olgei/nginx.git
+
+#### lua-cookbook
+- https://github.com/lovesars/CookBook/tree/master/Lua
+
+#### ngx-lua-cookbook
+- https://github.com/DevOpserzhao/nginx_lua_cookbook
