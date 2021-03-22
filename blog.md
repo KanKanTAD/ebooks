@@ -19,3 +19,7 @@
 #### Qt 快速入门系列教程
 
 - https://wizardforcel.gitbooks.io/qt-beginning/content/
+
+#### 《Nginx Cookbook》中文
+- https://chengkai.wang/2020/03/16/nginx-cook-book1/
+- https://github.com/olgei/nginx.git
