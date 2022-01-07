@@ -55,6 +55,12 @@
 #### visual algorithm
 - https://visualgo.net/zh
 
+#### the art of command line
+- https://github.com/jlevy/the-art-of-command-line
+
+#### Data Science at the Command Line
+- https://datascienceatthecommandline.com/2e/index.html
+
 ### tools
 
 #### asciiflow
@@ -66,8 +72,7 @@
 #### 格式转换
 - https://cloudconvert.com/
 
-#### the art of command line
-- https://github.com/jlevy/the-art-of-command-line
+
 
 ### 系统设计
 
