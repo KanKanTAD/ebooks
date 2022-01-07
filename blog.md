@@ -43,6 +43,7 @@
 - https://hardocs.com/d/rustprimer/index.html
 
 #### basic-computer-games
+- https://annarchive.com/files/Basic_Computer_Games_Microcomputer_Edition.pdf
 - https://github.com/coding-horror/basic-computer-games
 - http://www.vintage-basic.net/games.html
 
