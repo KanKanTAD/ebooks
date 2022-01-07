@@ -42,6 +42,10 @@
 #### rust primer (zh)
 - https://hardocs.com/d/rustprimer/index.html
 
+#### basic-computer-games
+- https://github.com/coding-horror/basic-computer-games
+- http://www.vintage-basic.net/games.html
+
 ### Data struct and algorithm
 
 #### Dictionary of Algorithms and Data Structures
