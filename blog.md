@@ -66,6 +66,9 @@
 #### 格式转换
 - https://cloudconvert.com/
 
+#### the art of command line
+- https://github.com/jlevy/the-art-of-command-line
+
 ### 系统设计
 
 #### system design primer
