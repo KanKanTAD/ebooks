@@ -29,3 +29,34 @@
 
 #### ngx-lua-cookbook
 - https://github.com/DevOpserzhao/nginx_lua_cookbook
+
+#### rust 'The Rust Programming Language'
+- https://doc.rust-lang.org/book/title-page.html
+
+#### rust 在线IDE
+- https://play.rust-lang.org/
+
+#### rust cookbook
+- https://rust-cookbook.budshome.com/about.html
+
+#### rust primer (zh)
+- https://hardocs.com/d/rustprimer/index.html
+
+### Data struct and algorithm
+
+#### Dictionary of Algorithms and Data Structures
+- https://xlinux.nist.gov/dads/
+
+#### visual algorithm
+- https://visualgo.net/zh
+
+### tools
+
+#### asciiflow
+- https://asciiflow.com/#/
+
+#### regex101
+- https://regex101.com/
+
+#### 格式转换
+- https://cloudconvert.com/
