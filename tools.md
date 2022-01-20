@@ -10,3 +10,8 @@
 ## 1. A GoLang PDF processor
 
 - [https://github.com/pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
+
+# tool 
+
+## 1. Rich 是一个 Python 库，可以为您在终端中提供富文本和精美格式
+- [https://github.com/Textualize/rich](https://github.com/Textualize/rich/blob/master/README.cn.md)
