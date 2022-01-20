@@ -7,6 +7,6 @@
 
 # lib
 
-## 1. handle for pdf of golang
+## 1. A GoLang PDF processor
 
 - [https://github.com/pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
