@@ -16,6 +16,10 @@
 ## 1. Rich 是一个 Python 库，可以为您在终端中提供富文本和精美格式
 - [https://github.com/Textualize/rich](https://github.com/Textualize/rich/blob/master/README.cn.md)
 
+## 2. “VTK for humans”: a high-level API to the Visualization Toolkit (VTK)
+- [https://docs.pyvista.org/index.html](https://docs.pyvista.org/index.html)
+- [https://github.com/pyvista/pyvista](https://github.com/pyvista/pyvista)
+
 # ide
 
 ## Thonny , Python IDE for beginners
