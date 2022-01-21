@@ -15,3 +15,9 @@
 
 ## 1. Rich 是一个 Python 库，可以为您在终端中提供富文本和精美格式
 - [https://github.com/Textualize/rich](https://github.com/Textualize/rich/blob/master/README.cn.md)
+
+# ide
+
+## Thonny , Python IDE for beginners
+- [https://thonny.org/](https://thonny.org/)
+- [https://github.com/thonny/thonny/](https://github.com/thonny/thonny/)
