@@ -25,3 +25,7 @@
 ## Thonny , Python IDE for beginners
 - [https://thonny.org/](https://thonny.org/)
 - [https://github.com/thonny/thonny/](https://github.com/thonny/thonny/)
+
+# html to pdf
+- [https://github.com/xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf)
+- [https://github.com/wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
