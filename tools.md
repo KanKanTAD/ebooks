@@ -20,6 +20,10 @@
 - [https://docs.pyvista.org/index.html](https://docs.pyvista.org/index.html)
 - [https://github.com/pyvista/pyvista](https://github.com/pyvista/pyvista)
 
+## 3. OCR图片文字识别
+- [https://gitee.com/wanglifree/tianruoocr-cl/releases](https://gitee.com/wanglifree/tianruoocr-cl/releases)
+- [千百OCR文字识别软件](http://spf.cn/ocr/)
+
 # ide
 
 ## Thonny , Python IDE for beginners
